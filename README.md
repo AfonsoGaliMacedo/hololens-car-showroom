@@ -3,9 +3,7 @@
 An interactive **mixed-reality car showroom** for Microsoft HoloLens 2, built in
 Unity with [MRTK3](https://learn.microsoft.com/windows/mixed-reality/mrtk-unity/mrtk3-overview/).
 
-Summon a sports car in front of you, walk around it, blow it apart into an
-exploded view, then take it apart one piece at a time — all with hand or gaze
-input. Originally a small HoloLens experiment, now cleaned up into a proper demo.
+The mixed-reality showcase our STEM Racing team built for the Aeroflux car, used at the National Finals to let international judges explore the car hands-on in HoloLens — summon it in front of you, walk around it, explode the assembly, and strip it down part by part with hand and gaze input.
 
 > **Platform:** HoloLens 2 (OpenXR) · **Engine:** Unity 2022.3 LTS · **Toolkit:** MRTK3
 
