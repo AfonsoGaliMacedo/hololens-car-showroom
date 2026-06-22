@@ -1,0 +1,59 @@
+# ----------------------------------------------------------------------------
+# Unity generated folders (regenerated locally on open – never committed)
+# ----------------------------------------------------------------------------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# ----------------------------------------------------------------------------
+# Build outputs / players
+# ----------------------------------------------------------------------------
+/[Aa]ppPackages/
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Visual Studio / Rider / VS Code project files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local tooling / editor assistant config
+.claude/
+
+# Crash reports
+sysinfo.txt
+crashlytics-build.properties
+
+# Note: Assets/WSATestCertificate.pfx is a self-signed UWP *test* certificate
+# used only for local HoloLens side-loading. It is intentionally committed so
+# the project's build settings resolve on a fresh clone. Replace it with your
+# own certificate before any production/store build.

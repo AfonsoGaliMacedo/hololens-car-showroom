@@ -1,0 +1,37 @@
+# Normalise line endings for text; keep Unity-specific files diff-friendly.
+* text=auto
+
+# Unity text assets
+*.cs       text diff=csharp
+*.shader   text
+*.cginc    text
+*.hlsl     text
+*.uss      text
+*.uxml     text
+*.json     text
+*.md       text
+*.unity    text
+*.prefab   text
+*.asset    text
+*.mat      text
+*.meta     text
+*.asmdef   text
+
+# Treat these as binary so Git never tries to merge or munge them.
+*.fbx      binary
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.tga      binary
+*.psd      binary
+*.tif      binary
+*.gif      binary
+*.wav      binary
+*.mp3      binary
+*.ogg      binary
+*.ttf      binary
+*.otf      binary
+*.dll      binary
+*.tgz      binary
+*.pfx      binary
+*.unitypackage binary
